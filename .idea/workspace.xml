@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcff685c-96cd-4eb3-b48a-bd27b4db7dca" name="Changes" comment="Test">
-      <change afterPath="$PROJECT_DIR$/src/Week2/ul38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week3/ul44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week3/ul56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week3/ul69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="dcff685c-96cd-4eb3-b48a-bd27b4db7dca" name="Changes" comment="New repositories">
+      <change afterPath="$PROJECT_DIR$/src/Week4/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week4/ul73.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Week4/ul72.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Week4/ul72.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4/ul72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/ul72.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,27 +48,14 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "notes": "DONE: 38, 44, 48, \n\nWIP: 36, 56, 65, 69 -WEEK1-",
+    "notes": "DONE: 38, 44, 48, \n\nWIP: 36, 56, 65, 69 -WEEK1-, 72",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.intentionPowerPack"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ul72">
-    <configuration name="ul48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.ul48" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ul73">
     <configuration name="ul56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week3.ul56" />
       <module name="Java" />
@@ -123,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ul73" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week4.ul73" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ul73" />
         <item itemvalue="Application.ul72" />
         <item itemvalue="Application.ul69" />
         <item itemvalue="Application.ul65" />
         <item itemvalue="Application.ul56" />
-        <item itemvalue="Application.ul48" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662633111926</updated>
       <workItem from="1662633113284" duration="5975000" />
-      <workItem from="1662702258449" duration="2058000" />
+      <workItem from="1662702258449" duration="3813000" />
     </task>
     <task id="LOCAL−00001" summary="Test">
       <created>1662633349362</created>
@@ -150,7 +148,19 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1662633349362</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="New repositories">
+      <created>1662704365729</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1662704365729</updated>
+    </task>
+    <task id="LOCAL−00003" summary="New repositories">
+      <created>1662704414694</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1662704414694</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +180,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="New repositories" />
+    <option name="LAST_COMMIT_MESSAGE" value="New repositories" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
