@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcff685c-96cd-4eb3-b48a-bd27b4db7dca" name="Changes" comment="New repositories">
-      <change afterPath="$PROJECT_DIR$/src/Week4/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4/ul73.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Week4/ul72.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Week4/ul72.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/ul72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/ul72.java" afterDir="false" />
-    </list>
+    <list default="true" id="dcff685c-96cd-4eb3-b48a-bd27b4db7dca" name="Changes" comment="Exercise: 72, 73" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662633111926</updated>
       <workItem from="1662633113284" duration="5975000" />
-      <workItem from="1662702258449" duration="3813000" />
+      <workItem from="1662702258449" duration="4589000" />
     </task>
     <task id="LOCAL−00001" summary="Test">
       <created>1662633349362</created>
@@ -160,7 +154,13 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1662704414694</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Exercise: 72, 73">
+      <created>1662706536838</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1662706536838</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +181,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Test" />
     <MESSAGE value="New repositories" />
-    <option name="LAST_COMMIT_MESSAGE" value="New repositories" />
+    <MESSAGE value="Exercise: 72, 73" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise: 72, 73" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
