@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcff685c-96cd-4eb3-b48a-bd27b4db7dca" name="Changes" comment="Exercise: 101.4">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/ul5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +43,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "font_size": "16",
     "node.js.detected.package.eslint": "true",
@@ -51,7 +57,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ul101">
+  <component name="RunManager" selected="Application.ul3">
     <configuration name="Ul101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week6.Ul101" />
       <module name="Java" />
@@ -65,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ul69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.ul69" />
+    <configuration name="ul3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week7.ul3" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week3.*" />
+          <option name="PATTERN" value="Week7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ul72" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week4.ul72" />
+    <configuration name="ul5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week7.ul5" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week4.*" />
+          <option name="PATTERN" value="Week7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ul3" />
+        <item itemvalue="Application.ul5" />
         <item itemvalue="Application.Ul101" />
         <item itemvalue="Application.ul79" />
         <item itemvalue="Application.ul73" />
-        <item itemvalue="Application.ul72" />
-        <item itemvalue="Application.ul69" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +143,7 @@
       <updated>1662633111926</updated>
       <workItem from="1662633113284" duration="5975000" />
       <workItem from="1662702258449" duration="10113000" />
-      <workItem from="1663220143561" duration="8393000" />
+      <workItem from="1663220143561" duration="13876000" />
     </task>
     <task id="LOCAL−00001" summary="Test">
       <created>1662633349362</created>
