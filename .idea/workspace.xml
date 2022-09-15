@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcff685c-96cd-4eb3-b48a-bd27b4db7dca" name="Changes" comment="Exercise: 101.3">
-      <change afterPath="$PROJECT_DIR$/src/Week6/StringUtils.java" afterDir="false" />
+    <list default="true" id="dcff685c-96cd-4eb3-b48a-bd27b4db7dca" name="Changes" comment="Exercise: 101.4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week6/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week6/Library.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "notes": "DONE: 38, 44, 48, \n\nWIP: 36, 56, 65, 69, -WEEK1-\n\nTODO: 93, 89",
+    "notes": "DONE: 38, 44, 48, \n\nWIP: 36, 56, 65, 69, -WEEK1-, 101.4\n\nTODO: 93, 89",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -139,7 +137,7 @@
       <updated>1662633111926</updated>
       <workItem from="1662633113284" duration="5975000" />
       <workItem from="1662702258449" duration="10113000" />
-      <workItem from="1663220143561" duration="7167000" />
+      <workItem from="1663220143561" duration="8393000" />
     </task>
     <task id="LOCAL−00001" summary="Test">
       <created>1662633349362</created>
@@ -201,7 +199,13 @@
       <option name="presentableId" value="LOCAL−00010" />
       <updated>1663226635831</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL−00011" summary="Exercise: 101.4">
+      <created>1663228818301</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1663228818301</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +236,8 @@
     <MESSAGE value="Exercise: 101.1" />
     <MESSAGE value="Exercise: 101.2" />
     <MESSAGE value="Exercise: 101.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise: 101.3" />
+    <MESSAGE value="Exercise: 101.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise: 101.4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
